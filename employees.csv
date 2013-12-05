@@ -1,0 +1,9 @@
+salary_type,last_name,first_name,base_salary,commission,bonus,sales_quota,company_quota
+base,Smith,Johnny,80000
+base,McMahon,Jimmy,85000
+commission,Lob,Bob,50000,0.005
+commission,Bobby,Ricky,40000,0.015
+base,Krabappel,Edna,87000
+quota,Groundskeeper,Willie,75000,0,5000,60000
+quota,Wiggum,Clancy,80000,0,10000,80000
+owner,Burns,Charles,500000,0,1000,0,250000

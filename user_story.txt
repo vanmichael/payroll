@@ -1,0 +1,17 @@
+User Stories
+
+As human resources
+I want to calculate the net pay
+So that I can pay the employees
+
+As human resources 
+I want to calculate the gross salary
+So that I can track the companies expenses
+
+As human resources
+I want to load a CSV of sales
+So that I can calculate commisions
+
+As human resources
+I want to load a CSV of the employees
+So that I know who gets paid
